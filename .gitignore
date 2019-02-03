@@ -328,3 +328,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/vEBTree/vEBTree.sln
+/vEBTree/vEBTree.vcxproj
+/vEBTree/vEBTree.vcxproj.filters
